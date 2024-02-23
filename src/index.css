@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    background: #222;
+    font-family: system-ui;
+    place-content: center;
+    min-height: 50rem;
+}
+
+.App {
+    gap: 8px;
+}
